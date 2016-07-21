@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# **about** 
  
 首个自己搭起来的个人博客，以前总没坚持下去做笔记这件事，所有创建了这个简单的blog站点。
 
